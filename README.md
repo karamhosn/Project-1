@@ -2,6 +2,10 @@
 
  *First ever game! :D*
 
+-------------------------------------- LINKS & REFERENCES --------------------------------------
+
+__**Assets**__: [https://www.dropbox.com/sh/h5vez7ltgbmfnib/AADSCiI2dEKptcR7ydv8xR2Ba?dl=0]
+
 --------------------------------------------- TITLE -------------------------------------------
 
 __**Game Title**__: Bouncing Bird
@@ -10,7 +14,7 @@ __**Game Title**__: Bouncing Bird
 
 __**Game Goals**__:
 
-- Design and Implement a mock version of the ”Flappy Bird” iOS mobile game on Unity Game Engine.
+- Implement a mock version of the ”Flappy Bird” iOS mobile game on Unity Game Engine.
 
 **Do this by**:
 - Creating game objects with specified functionalities
